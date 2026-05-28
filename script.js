@@ -1,4 +1,3 @@
-<script src="script.js">
 
 // losowanie celu
 let lecturers = [];
@@ -118,4 +117,3 @@ function guess() {
     }, 100);
   }
 }
-</script>
