@@ -1,4 +1,4 @@
-<script type="module" src="script.js">
+<script src="script.js">
 
 // losowanie celu
 let lecturers = [];
