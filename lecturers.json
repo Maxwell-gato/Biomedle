@@ -30,4 +30,4 @@
   { "name": "Anna Tamulewicz", "department": "IMSI", "room": 209, "title": "dr inż.", "yearOfLastTitle": null,  "publications": 14},
   { "name": "Agata Wijata", "department": "IMSI", "room": 215, "title": "dr inż.", "yearOfLastTitle": 2023,  "publications": 86},
   { "name": "Piotr Zarychta", "department": "IMSI", "room": 216, "title": "dr inż.", "yearOfLastTitle": 2006,  "publications": 54}
-];
+]
